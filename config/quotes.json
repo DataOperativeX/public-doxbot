@@ -1,0 +1,46 @@
+{
+    "WELCOMING":{
+        "NEW":{
+            "PRE":{
+                "NULL": "****",
+                "1": "**WELL WOULD YA LOOK AT THAT, A NEW FACE!**",
+                "2": "**HOLY SHIT SOMEONE NEW JOINED THE SERVER!**",
+                "3": "**AND WHO THE FUCK DO YOU THINK YOU ARE EXACTLY?**"
+            },
+            "POST": {
+                "NULL": "****",
+                "1": "**WELCOME TO THE ART RIOTER COMMUNITY!**",
+                "2": "**SUP NIGGA!**",
+                "3": "**YOU BEST WATCH YOUR BACK AROUND THESE PARTS PAL.**"
+            }
+        },
+        "RETURNING":{
+            "PRE": {
+                "NULL": "****",
+                "1": "**OH SHIT!**",
+                "2": "**HUH? YOU CAME BACK?**",
+                "3": "**UGH WHO INVITED THIS RETARD BACK?**"
+            },
+            "POST": {
+                "NULL": "****",
+                "1": "**CAME BACK EVERYONE! I REALLY MISSED YOU!**",
+                "2": "**WHY WOULD YOU EVER WANT TO DO THAT?**",
+                "3": "**YOU BEST NOT LEAVE AGAIN!**"
+            }
+        },
+        "LEAVING": {
+            "PRE": {
+                "NULL": "****",
+                "1": "**OH SHIT OH FUCK**",
+                "2": "**GUESS WHO JUST KILLED THEMSELVES. YEP, IT WAS**",
+                "3": "**LETS GOOOOO**"
+            },
+            "POST": {
+                "NULL": "****",
+                "1": "**JUST FUCKING LEFT GUYS!**",
+                "2": "**LOL**",
+                "3": "**FINALLY FUCKING LEFT AHHAHAHA!**"
+            }
+        }
+    }
+}
